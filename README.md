@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux, Windows, Hosting**
 
-- 📫 How to reach me **admin@dust2send.cloud**
+- 📫 How to reach me **official.szcz on Discord**
 
 - ⚡ Fun fact **I love Capybara's**
 
