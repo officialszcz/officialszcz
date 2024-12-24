@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialszcz&label=Profile%20views&color=0e75b6&style=flat" alt="officialszcz" /> </p>
 
-- 🔭 I’m currently working on [ServerStorm](https://serverstorm.eu/)
+- 🔭 I’m currently working on [👀](https://officialszcz.tech)
 
-- 🌱 I’m currently learning **Ethical Hacking, programing and etc...**
+- 🌱 I’m currently learning ethical hacking, IT server management, and exploring cybersecurity essentials.**
 
-- 👯 I’m looking to collaborate on **Small and Medium Hostings**
+- 👯 I’m looking to collaborate on **cybersecurity or general IT projects.**
 
 - 💬 Ask me about **Linux, Windows, Hosting**
 
