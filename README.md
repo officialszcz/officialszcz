@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialszcz&label=Profile%20views&color=0e75b6&style=flat" alt="officialszcz" /> </p>
 
-- 🔭 I’m currently working on [👀](https://officialszcz.tech)
+- 🔭 I’m currently working on 👀
 
 - 🌱 I’m currently learning ethical hacking, IT server management, and exploring cybersecurity essentials.**
 
