@@ -1,26 +1,74 @@
-<h1 align="center">Hi 👋, I'm official.szcz</h1>
-<h3 align="center">A passionate about computer science</h3>
+# 👋 Hi, I'm a Founder & Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialszcz&label=Profile%20views&color=0e75b6&style=flat" alt="officialszcz" /> </p>
+🚀 **Founder / CEO**
+💻 **Developer & Systems Administrator**
+⚙️ **Building scalable infrastructure and software**
 
-- 🔭 I’m currently working on 👀
+---
 
-- 🌱 I’m currently learning **ethical hacking, IT server management, and exploring cybersecurity essentials.**
+## 🧠 About Me
 
-- 👯 I’m looking to collaborate on **cybersecurity or general IT projects.**
+I'm a developer and infrastructure engineer focused on building scalable systems, backend services, and modern web platforms.
+My work combines **software development, system administration, and automation** to create reliable digital infrastructure.
 
-- 💬 Ask me about **Linux, Windows, Hosting**
+Currently working on projects related to:
 
-- 📫 How to reach me **official.szcz on Discord**
+* ☁️ Infrastructure & hosting platforms
+* 🖥 Backend services and APIs
+* ⚡ Automation and system tools
+* 🌐 Web platforms and SaaS products
 
-- ⚡ Fun fact **I love Capybara's**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@officialszcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="szczpl" height="30" width="40" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="U2PaHTHb" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
+**Languages**
 
+* JavaScript / Node.js
+* Go
+* C
+
+**Backend**
+
+* Node.js
+* Express
+* REST APIs
+
+**Frontend**
+
+* Next.js
+* React
+* TailwindCSS
+
+**Infrastructure**
+
+* Linux
+* Docker
+* VPS / Dedicated Servers
+* Networking & System Administration
+
+---
+
+## 🚀 Current Focus
+
+* Building infrastructure platforms
+* Developing scalable backend services
+* Automating systems and deployments
+* Creating modern SaaS applications
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialszcz&show_icons=true&theme=dark)
+
+---
+
+## 🌍 Connect
+
+* GitHub: https://github.com/officialszcz
+* Discord: official.szcz
+
+---
+
+⚡ **Founder mode. Building the future of infrastructure.**
